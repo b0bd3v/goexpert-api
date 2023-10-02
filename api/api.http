@@ -1,0 +1,8 @@
+POST http://{{host}}:{{port}}/products
+Content-Type: application/json
+
+{
+  "name": "Product 1",
+  "price": 100
+}
+
